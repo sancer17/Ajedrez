@@ -1,6 +1,6 @@
 # Práctica 1: Lógica computacional
 
-##Prerrequisitos
+## Prerrequisitos
 
 1. **Instalación de Swipl**
 	- Es necesario instalar Swipl en la máquina que sobre la que se quiera ejecutar el programa.
@@ -18,7 +18,7 @@ Una vez instalado el Swipl solo tenemos que entrar en la carpeta /practica1/ y e
 
 
 
-##Guía rápida de uso
+## Guía rápida de uso
 *Aquí introduciré los pasos  de manera sencilla para ejecutar el validador.*
 
 ## Elegir el problema a resolver
